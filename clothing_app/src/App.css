@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.horizontal {
+  display: flex;
+  flex-direction: column;
+}
+
+.vertical {
+  display: flex;
+  flex-direction: row;
+}
+
+.filters {
+  display: flex;
+}
+.selected {
+  display: flex;
+}
